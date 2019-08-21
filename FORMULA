@@ -1,0 +1,9 @@
+name: nslcd
+os: Arch
+os_family: Arch
+version: 1.0.0
+release: 1
+minimum_version: 2019.02
+summary: Nslcd formula
+description: Formula to configure nslcd
+top_level_dir: nlcd
